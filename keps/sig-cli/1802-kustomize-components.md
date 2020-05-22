@@ -6,7 +6,7 @@ authors:
   - "@pgpx"
 owning-sig: sig-cli
 participating-sigs:
-  - n/a
+  - sig-cli
 reviewers:
   - n/a
 approvers:

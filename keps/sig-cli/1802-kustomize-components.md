@@ -37,6 +37,7 @@ superseded-by:
 - [Design Details](#design-details)
   - [Test Plan](#test-plan)
   - [Graduation Criteria](#graduation-criteria)
+    - [Alpha --&gt; Beta](#alpha---beta)
 - [Implementation History](#implementation-history)
 - [Alternatives](#alternatives)
 <!-- /toc -->

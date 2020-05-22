@@ -577,7 +577,7 @@ and giving child components their parent's RA instead of an empty RA. This
 minimizes the amount of code changed to simplify review, but a slightly more
 extensive refactoring is recommended.
 
-Additionaly, we add some checks to ensure that Kustomizations and normal
+Additionally, we add some checks to ensure that Kustomizations and normal
 files are not added to the `components:` list and Components are not added to
 `resources:`.
 
